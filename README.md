@@ -1,5 +1,5 @@
 # dynamika_kwantowa_elektronu
-C++
+C++, ROOT
 
 Dynamika kwantowa naladowanej czastki w pudle w zmiennym polu elektrycznym
 
